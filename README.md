@@ -1,6 +1,7 @@
 # Control Plane
 
 Control Plane repository defines the desired state of shared infrastructure components and enables self-service onboarding process for the application developer teams.
+https://docs.akuity.io/tutorials/adv-gitops/
 
 Repository contains the following directories:
 
